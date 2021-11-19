@@ -7,7 +7,11 @@ Radius Raid is a space themed shoot 'em up where you must blast away unrelenting
 Controls 
 
 Move: WASD/Arrows
+
 Aim/Fire: Mouse
+
 Autofire: F
+
 Pause: P
+
 Mute: M
